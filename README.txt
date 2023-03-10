@@ -25,7 +25,7 @@ PROGRAM INSTALLATION INSTRUCTIONS
 
     Our program requires some JAR files to run. You can download them as an archive from the following URL:
 
-    http://individual.utoronto.ca/calculemus/csc207/TradePalsJARs.zip
+    https://drive.google.com/drive/folders/1gCpw4P4_ndYwNjpWP33meXY1yU4wje6g?usp=share_link
 
     To install them:
 

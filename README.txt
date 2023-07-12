@@ -238,10 +238,6 @@ PHASE 2 FEATURE LIST
           easy-to-edit configuration file (stored in phase2/config.json). This allows less tech-savvy users to
           edit the prompts, and could even allow for changing the output language of the program.
 
-    NOTE: Due to time constraints and our group's overly optimistic/ambitious timelines, we didn't manage to
-    implement some of these features fully, but our program's extensibility should make it trivial to complete
-    them in the future.
-
 DESIGN PATTERNS
 ===============
 
@@ -331,11 +327,6 @@ POSSIBLE EXTENSIONS
 
 KNOWN ISSUES
 ============
-
-    Due to the tight time constraints and us being overly ambitious and optimistic about what we could get done
-    in the given time, we left a lot of things left undone. None of it would be particularly challenging to
-    implement, we just ran out of time. Sadly, we'll only get a chance to fix these things once the course is
-    over.
 
     UX Issues:
 
